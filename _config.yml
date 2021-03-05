@@ -17,7 +17,7 @@ title: Rainbow Redux
 email: philip@gdcorner.com
 author: "Philip Edwards"
 description: >- # this means to ignore newlines until "baseurl:"
-  Development beyond code
+  An engine replacement for the original Rainbow Six games
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rainbowredux.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boristsr
